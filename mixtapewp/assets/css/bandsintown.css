@@ -1,0 +1,265 @@
+.bit-widget-container {
+  font-family: "Poppins", sans-serif !important;
+}
+
+.bit-widget-container .bit-share-text {
+  font-size: 15px;
+  color: #353535;
+}
+
+.bit-widget-container .bit-share-links a {
+  font-family: 'icomoon' !important;
+  background: none !important;
+  color: #aaa;
+  font-size: 15px;
+  padding: 0 0 0 10px;
+  -webkit-transition: color 0.15s ease-out;
+  -moz-transition: color 0.15s ease-out;
+  transition: color 0.15s ease-out;
+}
+
+.bit-widget-container .bit-share-links a:hover {
+  color: #000;
+}
+
+.bit-widget-container .bit-share-links a.bit-fb-share:after {
+  content: "\ea90";
+}
+
+.bit-widget-container .bit-share-links a.bit-twitter-share:after {
+  content: "\ea96";
+}
+
+.bit-widget-container table tbody tr, .bit-widget-container table thead tr {
+  border: 2px solid #d2d2d2;
+}
+
+.bit-widget-container table tbody th {
+  border-right: none;
+}
+
+.bit-widget-container table tbody tr {
+  border-left: none;
+  border-right: none;
+}
+
+.bit-widget-container table {
+  border-collapse: collapse;
+}
+
+.bit-widget-container table tbody tr td,
+.bit-widget-container table tbody tr th {
+  padding: 25px 0;
+}
+
+.bit-widget-container .bit-venue {
+  font-size: 25px;
+  color: #353535;
+  font-weight: 600;
+}
+
+.bit-widget-container .bit-date,
+.bit-widget-container .bit-location {
+  font-size: 20px;
+  font-weight: 400;
+  color: #353535;
+  min-width: 100px;
+}
+
+.bit-widget-container .bit-date a,
+.bit-widget-container .bit-location a {
+  font-weight: 400 !important;
+}
+
+.bit-widget-container .bit-tickets a,
+.bit-widget-container .bit-notify {
+  color: #858585;
+  font-weight: 600;
+}
+
+.bit-widget-container .bit-tickets a:hover,
+.bit-widget-container .bit-notify:hover {
+  color: #000;
+}
+
+.bit-widget-container .bit-notify {
+  margin-bottom: 21px;
+}
+
+.bit-widget-container .bit-bottom {
+  border-bottom: none !important;
+}
+
+.bit-widget-container .bit-bottom td {
+  padding-top: 65px;
+  padding-bottom: 0;
+}
+
+.bit-widget-container .bit-bottom td a {
+  display: block;
+  left: 50%;
+  position: relative;
+  outline: none;
+  font-style: normal;
+  font-weight: 500;
+  font-family: inherit;
+  padding: 17px 38px;
+  font-size: 15px;
+  line-height: 1.2em;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border: 2px solid #353535 !important;
+  color: #353535;
+  background-color: transparent;
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  transform: translateX(-50%);
+  -webkit-transition: color 0.15s ease-out, background-color 0.15s ease-out, border-color 0.15s ease-out;
+  -moz-transition: color 0.15s ease-out, background-color 0.15s ease-out, border-color 0.15s ease-out;
+  transition: color 0.15s ease-out, background-color 0.15s ease-out, border-color 0.15s ease-out;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.bit-widget-container .bit-bottom td a:hover {
+  border: 2px solid #000 !important;
+  color: #fff !important;
+  background-color: #000;
+}
+
+.bit-widget-container .bit-invert,
+.bit-widget-container th.bit-date,
+.bit-widget-container th.bit-location,
+.bit-widget-container th.bit-venue,
+.bit-widget-container th.bit-tickets {
+  background: transparent !important;
+  margin-bottom: 5px !important;
+  color: #353535 !important;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 2px;
+  font-size: 16px;
+  line-height: 1.7em;
+  text-transform: uppercase;
+  -webkit-transition: color 0.15s ease-out, background-color 0.15s ease-out, border-color 0.15s ease-out;
+  -moz-transition: color 0.15s ease-out, background-color 0.15s ease-out, border-color 0.15s ease-out;
+  transition: color 0.15s ease-out, background-color 0.15s ease-out, border-color 0.15s ease-out;
+}
+
+.bit-widget-container table a:hover,
+.bit-widget-container .bit-invert:hover {
+  color: #000 !important;
+}
+
+.bit-widget-container td .bit-uiButton {
+  background: none !important;
+  border: none !important;
+  -webkit-box-shadow: none !important;
+  -moz-box-shadow: none !important;
+  box-shadow: none !important;
+}
+
+.bit-widget-container td .bit-uiButton a {
+  margin-top: -5px;
+  display: inline-block;
+  position: relative;
+  outline: none;
+  font-style: normal;
+  font-weight: 500;
+  font-family: inherit;
+  font-size: 11px;
+  padding: 9px 19px;
+  line-height: 1em;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border: 2px solid #353535 !important;
+  color: #353535;
+  background-color: transparent;
+  -webkit-transition: color 0.15s ease-out, background-color 0.15s ease-out, border-color 0.15s ease-out;
+  -moz-transition: color 0.15s ease-out, background-color 0.15s ease-out, border-color 0.15s ease-out;
+  transition: color 0.15s ease-out, background-color 0.15s ease-out, border-color 0.15s ease-out;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.bit-widget-container td .bit-uiButton a:hover {
+  border: 2px solid #000 !important;
+  color: #fff !important;
+  background-color: #000;
+}
+
+.bit-widget-container#bit-events a.bit-track-artist-header {
+  border-top: none !important;
+  border-bottom: none !important;
+}
+
+.bit-widget-container#bit-events .bit-events td {
+  border-top: none !important;
+}
+
+.bit-widget-container .bit-header {
+  border-top: none !important;
+}
+
+.bit-widget-container .bit-header th,
+.bit-widget-container tr:nth-child(2) th {
+  padding: 10px 0px !important;
+}
+
+.bit-widget-container .bit-header-links {
+  color: #353535;
+}
+
+.bit-widget-container .bit-events-nav {
+  color: #aaa;
+  font-weight: 600 !important;
+}
+
+.bit-widget-container table {
+  border-bottom: none !important;
+}
+
+.qodef-bandsintown-light .bit-widget-container .bit-invert,
+.qodef-bandsintown-light .bit-widget-container th.bit-date,
+.qodef-bandsintown-light .bit-widget-container th.bit-location,
+.qodef-bandsintown-light .bit-widget-container th.bit-tickets,
+.qodef-bandsintown-light .bit-widget-container th.bit-venue,
+.qodef-bandsintown-light .bit-widget-container td a,
+.qodef-bandsintown-light .bit-widget-container .bit-header-links,
+.qodef-bandsintown-light .bit-widget-container .bit-share-text,
+.qodef-bandsintown-light .bit-widget-container .bit-notify,
+.qodef-bandsintown-light .bit-widget-container .bit-share-links a,
+.qodef-bandsintown-light .bit-widget-container .bit-events-nav {
+  color: #fff !important;
+}
+
+.qodef-bandsintown-light .bit-widget-container td a:hover,
+.qodef-bandsintown-light .bit-widget-container .bit-invert:hover,
+.qodef-bandsintown-light .bit-widget-container .bit-notify:hover,
+.qodef-bandsintown-light .bit-widget-container .bit-events-nav:hover {
+  color: #000 !important;
+}
+
+.qodef-bandsintown-light .bit-widget-container .bit-share-links a:hover {
+  color: #000 !important;
+}
+
+.qodef-bandsintown-light .bit-widget-container table tbody tr,
+.qodef-bandsintown-light .bit-widget-container table thead tr {
+  border-color: rgba(210, 210, 210, 0.16) !important;
+}
+
+.qodef-bandsintown-light .bit-widget-container .bit-bottom a,
+.qodef-bandsintown-light .bit-widget-container td .bit-uiButton a {
+  border-color: #fff !important;
+}
+
+.qodef-bandsintown-light .bit-widget-container .bit-bottom td a:hover,
+.qodef-bandsintown-light .bit-widget-container td .bit-uiButton a:hover {
+  color: #fff !important;
+  border-color: #000 !important;
+}
+
+/*# sourceMappingURL=bandsintown.css.map */
