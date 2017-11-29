@@ -1,0 +1,23 @@
+@media only screen and (max-width: 1024px){
+	/* generated in /akapit/web/decybeledizajnu_com/wp-content/themes/mixtapewp/framework/modules/header/custom-styles/header.php mixtape_qodef_header_top_bar_responsive_styles function */
+.qodef-top-bar { height: 0;display: none;}
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 768px){
+	/* generated in /akapit/web/decybeledizajnu_com/wp-content/themes/mixtapewp/assets/custom-styles/general-custom-styles-responsive.php mixtape_qodef_design_responsive_styles function */
+.qodef-section.qodef-parallax-section-holder,.touch .qodef-parallax-section-holder.qodef-parallax-section-holder-touch-disabled { height: auto !important;min-height: 400px;}
+
+}
+
+@media only screen and (max-width: 480px){
+	/* generated in /akapit/web/decybeledizajnu_com/wp-content/themes/mixtapewp/assets/custom-styles/general-custom-styles-responsive.php mixtape_qodef_design_responsive_styles function */
+.qodef-section.qodef-parallax-section-holder,.touch .qodef-parallax-section-holder.qodef-parallax-section-holder-touch-disabled { height: auto !important;min-height: 400px;}
+
+/* generated in /akapit/web/decybeledizajnu_com/wp-content/themes/mixtapewp/assets/custom-styles/general-custom-styles-responsive.php mixtape_qodef_h2_responsive_styles2 function */
+h2 { font-size: 34px;line-height: 34px;}
+
+/* generated in /akapit/web/decybeledizajnu_com/wp-content/themes/mixtapewp/assets/custom-styles/general-custom-styles-responsive.php mixtape_qodef_h3_responsive_styles2 function */
+h3 { font-size: 28px;line-height: 28px;}
+
+}
